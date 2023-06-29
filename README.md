@@ -19,4 +19,6 @@ The code fetches the 20 Newsgroups training data, preprocesses it using CountVec
 
 The code prints the predicted categories for the new documents. Each prediction is shown alongside the corresponding input document.
 
+![image](https://github.com/abhigyan02/text-classification/assets/75851981/74536fa1-940b-45cd-8b43-edcfaa1e9c6e)
+
 
